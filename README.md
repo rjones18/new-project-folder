@@ -1,6 +1,6 @@
 # new-project-folder
 
-I am architecting this project out to retain the knowledge.
+I am architecting this project out for my own knowledge.
 
 Link to Website: http://terraform.reggiestestdomain.com
 
